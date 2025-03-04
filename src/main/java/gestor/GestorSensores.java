@@ -29,8 +29,10 @@ public class GestorSensores {
         sensores.add(sensor);
     }
 
-    private boolean containsSensor(String sensor){
+   /* 
+   private boolean containsSensor(String sensor){
         return sensores.contains(sensor);
     }
+   */ 
     
 }
